@@ -1,8 +1,7 @@
 {
   "version": "2.7",
   “url”: “https://routinehub.co/shortcut/19755/“,
-  “notes”: “Downloading media videos,pictures and audio from social media platforms”,
+  “notes”: “Downloading media videos,pictures and audio from social media”,
   "release": "December 22, 2024",
-  "api":
-  "https://cobalt api.ayo.tf/“
+  "api": "https://cobalt api.ayo.tf/“
 }
