@@ -1,7 +1,6 @@
-
 {
   "version": "2.7",
-  "payload.notes": "Fix api errors",
-  "url": "https://cobalt-api.ayo.tf/“,
-  "release": "December 22, 2024"
+  "api": "https://cobalt api.ayo.tf/",
+  "notes": "Fix download errors.",
+  "release": "December 21, 2024"
 }
